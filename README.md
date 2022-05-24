@@ -26,3 +26,5 @@ Code in CircuitPython
 | Cricut® Walnut Natural Wood Veneer                                               | 1        |
 | Flexible Translucent PE Plastic Sheet 48x24x1/30 (0.03)                          | 1        |
 | Clear Colorless Acrylic Sheet 12'' x 12'' x 1/16'' Thickness                     | 1        |
+
+[Bill of Materials](https://docs.google.com/spreadsheets/d/14_knVQdDCQbgbgffJhhdWRG21sqDkRrjMwO6SobgPtc/edit?usp=sharing)
