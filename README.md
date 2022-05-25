@@ -10,6 +10,11 @@ Code in CircuitPython
 
 ![Schematic showing a Plasma 2040 connect to led strips](images/circuit.jpg)
 
+## Models
+
+- [Download Frame (STEP File)](models/dune_assembled.step) (view on <https://a360.co/39OhiOe>)
+- [Download Sand Dune (Blender)](models/dune.blend)
+
 ## Materials
 
 | Description                                                                      | Quantity |
