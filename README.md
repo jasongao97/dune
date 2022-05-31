@@ -1,10 +1,12 @@
 # Dune
 
-Code in CircuitPython
+Designed and Built by Jason Gao & Marcel Wang
 
-> Dune is a lamp designed for massage waiting rooms. Inspired by the Japanese dry garden / zen garden, we hope to bring an experience of peace, meditation, and emptiness by praising the circular movements of shadows created through the miniature landscape lightened by dynamic LEDs to help patients breathe and relax.
+Dune is a lamp designed for massage waiting rooms. Inspired by the Japanese dry garden / zen garden, we hope to bring an experience of peace, meditation, and emptiness by praising the circular movements of shadows created through the miniature landscape lightened by dynamic LEDs to help patients breathe and relax.
 
 [![Round wood frame contained 3D printed plastic with sand dune shape](images/dune.jpg)](https://vimeo.com/711887115)
+
+[Download PDF](dune.pdf) for build details
 
 ## Circuit
 
@@ -13,7 +15,7 @@ Code in CircuitPython
 ## Models
 
 - [Download Frame (STEP File)](models/dune_assembled.step) (view on <https://a360.co/39OhiOe>)
-- [Download Sand Dune (Blender)](models/dune.blend)
+- [Download Sand Dune (Blender 3.0+)](models/dune.blend)
 
 ## Materials
 
